@@ -1,0 +1,1 @@
+const yes=document.getElementById('yes'),maybe=document.getElementById('maybe'),answer=document.getElementById('answer');yes.onclick=()=>{answer.textContent='I KNEW IT 😭❤️ Date accepted. You owe me a call, Gabriella.';yes.textContent='DATE ACCEPTED ❤️'};maybe.onclick=()=>answer.textContent='Take your time 🌚… but I am already preparing the terrible jokes.';
